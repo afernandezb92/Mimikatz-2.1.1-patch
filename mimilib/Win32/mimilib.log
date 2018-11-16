@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Windows XP como opción de destino está en desuso y no se incluirá en las próximas versiones de Visual Studio. Consulte https://go.microsoft.com/fwlink/?linkid=2023588 para obtener más información.
+  kappfree.c
+  kdhcp.c
+  kdns.c
+  kfilt.c
+  kssp.c
+  kuhl_m_sekurlsa_nt6.c
+  kuhl_m_sekurlsa_packages.c
+  kuhl_m_sekurlsa_utils.c
+  kull_m_rpc.c
+  kull_m_rpc_ms-credentialkeys.c
+  kwindbg.c
+  utils.c
+     Creando biblioteca C:\Users\sdt\Desktop\mimikatz-master\Win32\mimilib.lib y objeto C:\Users\sdt\Desktop\mimikatz-master\Win32\mimilib.exp
+  Generando código
+  Generación de código finalizada
+  mimilib.vcxproj -> C:\Users\sdt\Desktop\mimikatz-master\Win32\mimilib.dll

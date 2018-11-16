@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\x64\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Windows XP como opción de destino está en desuso y no se incluirá en las próximas versiones de Visual Studio. Consulte https://go.microsoft.com/fwlink/?linkid=2023588 para obtener más información.
+  kuhl_m_lsadump.c
+  Generando código
+  Generación de código finalizada
+  mimikatz.vcxproj -> C:\Users\sdt\Desktop\mimikatz-master\x64\mimikatz.exe

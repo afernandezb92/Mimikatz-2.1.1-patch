@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Windows XP como opción de destino está en desuso y no se incluirá en las próximas versiones de Visual Studio. Consulte https://go.microsoft.com/fwlink/?linkid=2023588 para obtener más información.
+  kull_m_kernel.c
+  kull_m_memory.c
+  kull_m_minidump.c
+  kull_m_output.c
+  kull_m_process.c
+  kull_m_string.c
+  mimilove.c
+  Generando código
+  Generación de código finalizada
+  mimilove.vcxproj -> C:\Users\sdt\Desktop\mimikatz-master\Win32\mimilove.exe

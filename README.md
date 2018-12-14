@@ -2,3 +2,6 @@ This version fix the following issues for module lsadump, works in SAM 10th anni
 
 - SAMKey :  ERROR kuhl_m_lsadump_getSamKey : Unknow Classic Struct Key revision (2)
 - ERROR kuhl_m_lsadump_getUsersAndSamKey ; kuhl_m_lsadump_getSamKey KO
+
+Reference:
+https://hackpuntes.com/obtencion-de-contrasena-de-usuario-en-windows-10-decimo-aniversario/
